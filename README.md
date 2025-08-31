@@ -115,7 +115,7 @@ In iterative workflows, wireframes allow teams to quickly test ideas, adjust lay
 By focusing on layout and navigation early, wireframes help identify usability issues before they become costly.  
 **Example:** A wireframe showing a cluttered booking form can be revised for clarity before it reaches the design or development stage.
 
-Wireframing is not just a design tool—it’s a strategic asset in building intuitive, scalable, and user-centered software.
+Wireframing is not just a design tool, it’s a strategic asset in building intuitive, scalable, and user-centered software.
 
 
 
