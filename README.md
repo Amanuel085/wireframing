@@ -119,11 +119,11 @@ Wireframing is not just a design tool, it’s a strategic asset in building intu
 
 ##  Wireframing in Practice
 
-Wireframing is more than just sketching boxes—it’s a strategic tool that helps uncover usability issues before a single line of code is written. Here's a real-world scenario that highlights its impact:
+Wireframing is more than just sketching boxes, it’s a strategic tool that helps uncover usability issues before a single line of code is written. Here's a real-world scenario that highlights its impact:
 
 ###  Scenario: Booking Checkout Flow
 
-While wireframing the checkout flow for a hotel booking system, the initial design included a single-page form with multiple fields—guest details, payment info, and booking summary—all stacked vertically. During early wireframe reviews, it became clear that:
+While wireframing the checkout flow for a hotel booking system, the initial design included a single-page form with multiple fields guest details, payment info, and booking summary all stacked vertically. During early wireframe reviews, it became clear that:
 - The form felt overwhelming, especially on mobile screens  
 - Users might abandon the process due to cognitive overload  
 - Key actions like “Confirm Booking” were buried below the fold
@@ -146,7 +146,7 @@ They also repositioned the action buttons for better visibility and added progre
 
 ###  Conclusion
 
-Wireframing played a pivotal role in identifying and resolving usability issues early. It allowed the team to test ideas, gather feedback, and iterate quickly—saving time and resources while ensuring the final product was intuitive and user-friendly. In any software project, wireframing is a powerful ally in building with empathy and precision.
+Wireframing played a pivotal role in identifying and resolving usability issues early. It allowed the team to test ideas, gather feedback, and iterate quickly saving time and resources while ensuring the final product was intuitive and user-friendly. In any software project, wireframing is a powerful ally in building with empathy and precision.
 
 
 
