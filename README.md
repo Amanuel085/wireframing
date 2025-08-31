@@ -68,6 +68,35 @@ These are polished, detailed representations that closely resemble the final pro
 **Type of Wireframe Used Here:**  
 The wireframes created and documented in this repository are primarily **low-fidelity**. They are focused on structure, layout, and user flow for early-stage planning and requirement analysis. These wireframes help clarify functionality and navigation before moving into detailed design.
 
+##  Wireframing Tools
+
+Wireframing can be done using a variety of tools—ranging from simple sketching apps to advanced design platforms. Choosing the right tool depends on your workflow, collaboration needs, and the fidelity of wireframes you're aiming for.
+
+### 🔹 Popular Wireframing Tools
+- **Figma**  
+- **Adobe XD**  
+- **Sketch**  
+- **Balsamiq**  
+- **Whimsical**  
+- **Draw.io**  
+- **Lucidchart**
+
+###  Recommended Tool: Figma
+
+**Figma** is a cloud-based design tool that’s widely used for wireframing, prototyping, and UI design. It’s especially powerful for collaborative workflows and front-end development alignment.
+
+**Key Features:**
+- Real-time collaboration with team members  
+- Intuitive drag-and-drop interface for wireframing  
+- Built-in components and design systems  
+- Easy sharing and commenting for feedback  
+- Cross-platform access (browser-based and desktop app)
+
+**Why Figma is Great for Wireframing:**
+Figma allows designers and developers to work together seamlessly. You can quickly sketch low-fidelity wireframes, evolve them into high-fidelity mockups, and even hand off designs with specs and assets. Its flexibility and accessibility make it ideal for both solo projects and team-based workflows.
+
+
+
 
 
 
